@@ -195,7 +195,7 @@ body {
 
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
-  scrollbar-width: none;
+  scrollbar-width: no;
 }
 
 ::-webkit-scrollbar-track {

@@ -1,9 +1,9 @@
 import logo from "../assets/Logo/logo_chmes.png";
 import footerlogo from "../assets/Logo/vpp_logo.jpg";
 export { logo, footerlogo };
-
+import heroImg from "../assets/Herosection/bg-hero.jpg";
 import brochurepdf from "../assets/Brochure/prospectus_2024_final.pdf";
-export { brochurepdf };
+export { brochurepdf, heroImg };
 
 // Hero section
 import heroImage_1 from "../assets/Herosection/hero_1.jpg";

@@ -61,15 +61,11 @@ function Home() {
       </section>
       {/* Student Journey - Light gradient */}
       <section className="relative z-10">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#f8fafc] via-[#f1f5f9] to-[#e2e8f0]"></div>
-        <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-300 to-transparent"></div>
         <StudentJourney />
       </section>
 
       {/* Info Section - Purple tint gradient */}
       <section className="relative z-10">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#a2c8e5] via-[#a2c8e5] to-[#a2c8e5]"></div>
-        <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-purple-400 to-transparent"></div>
         <InfoSection />
       </section>
 
